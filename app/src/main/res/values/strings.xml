@@ -1,0 +1,39 @@
+<resources>
+    <string name="appName">Curso</string>
+    <string name="enterButton">Enter</string>
+    <string name="okButton">Ok</string>
+
+    <!-- Execise 1 -->
+    <!-- Widgets -->
+    <string name="monthSelector">Month Selector</string>
+    <string name="monthSelected">Month Selected</string>
+
+    <!-- Months -->
+    <string-array name="monthCalendarArray">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Lang Errors -->
+    <string name="monthSelectorError">Wrong month selector</string>
+    <string name="operatingProcessError">Wrong operating selector</string>
+    <!-- Execise 2 -->
+    <string-array name="operationArray">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+    <!-- Execise 3 -->
+    <string name="linesToDisplay">Enter lines to display</string>
+</resources>
