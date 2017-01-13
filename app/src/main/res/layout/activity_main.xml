@@ -37,5 +37,12 @@
         android:text="Go to execise number 3"
         android:layout_below="@id/execise2"/>
 
+    <Button
+        android:id="@+id/execise4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to execise number 4"
+        android:layout_below="@id/execise3"/>
+
 
 </LinearLayout>
