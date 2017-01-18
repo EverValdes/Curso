@@ -44,5 +44,12 @@
     <string name="pauseButtonLabel">Pause</string>
     <string name="startButtonLabel">Start</string>
 
+    <!-- Execise 5 -->
+    <string name="firstButtonDescription">Option One</string>
+    <string name="firstButtonOption">Go to option one</string>
+    <string name="secondButtonDescription">Option Two</string>
+    <string name="secondButtonOption">Go to option two</string>
+    <string name="thirdButtonDescription">Option Three</string>
+    <string name="thirdButtonOption">Go to option three</string>
 
 </resources>

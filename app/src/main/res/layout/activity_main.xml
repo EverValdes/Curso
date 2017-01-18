@@ -16,6 +16,11 @@
         android:layout_height="wrap_content"
         android:text="Class Number 1"/>
 
+    <ListView
+        android:id="@+id/execiseButtons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
     <Button
         android:id="@+id/execise1"
         android:layout_width="wrap_content"
@@ -43,6 +48,13 @@
         android:layout_height="wrap_content"
         android:text="Go to execise number 4"
         android:layout_below="@id/execise3"/>
+
+    <Button
+        android:id="@+id/execise5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to execise number 5"
+        android:layout_below="@id/execise4"/>
 
 
 </LinearLayout>

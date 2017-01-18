@@ -15,10 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Execise1"></activity>
-        <activity android:name=".Execise2"></activity>
-        <activity android:name=".Execise3"></activity>
-        <activity android:name=".Execise4"></activity>
+        <activity android:name=".Execise1" />
+        <activity android:name=".Execise2" />
+        <activity android:name=".Execise3" />
+        <activity android:name=".Execise4" />
+        <activity android:name=".Execise5" />
+        <activity android:name=".execise5Util.MenuButtonView" />
+        <activity android:name=".execise5Util.FirstDummyActivity" />
+        <activity android:name=".execise5Util.SecondDummyActivity" />
+        <activity android:name=".execise5Util.ThirdDummyActivity"></activity>
     </application>
 
 </manifest>
